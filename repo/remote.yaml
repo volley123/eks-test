@@ -22,7 +22,5 @@ spec:
       secretKeyRef:
         key: ""
 status:
-  remoteUrl: "ssh://default-eks-remote@a0256e787a9174842a177eaa98361ae8-810230369.ap-south-1.elb.amazonaws.com/~/git/default-eks-remote"
+  remoteUrl: ""
   remoteUrlDesc: ""
-  authorizedKeys:
-  - "ssh-rsa <key>"
