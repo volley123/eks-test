@@ -7,7 +7,8 @@ metadata:
 spec:
   template:
     metadata:
-      labels:
+     name: nginx-deployment 
+     labels:
         app: nginx
     spec:
       containers:
